@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-16T11:27:38 IST" name="Suite" finished-at="2026-04-16T11:29:40 IST" duration-ms="122428">
+    <groups>
+    </groups>
+    <test started-at="2026-04-16T11:27:38 IST" name="Test" finished-at="2026-04-16T11:29:40 IST" duration-ms="122428">
+      <class name="sdet.AppTest">
+        <test-method signature="testlogin1()[pri:0, instance:sdet.AppTest@4ac3c60d]" started-at="2026-04-16T11:27:38 IST" name="testlogin1" finished-at="2026-04-16T11:27:38 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin1 -->
+        <test-method signature="testlogin2()[pri:0, instance:sdet.AppTest@4ac3c60d]" started-at="2026-04-16T11:27:38 IST" name="testlogin2" finished-at="2026-04-16T11:27:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin2 -->
+      </class> <!-- sdet.AppTest -->
+      <class name="sdet.SeleniumTest">
+        <test-method signature="f()[pri:0, instance:sdet.SeleniumTest@3daa422a]" started-at="2026-04-16T11:27:38 IST" name="f" finished-at="2026-04-16T11:29:40 IST" duration-ms="121814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- sdet.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
